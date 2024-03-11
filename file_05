@@ -1,1 +1,3 @@
-
+cout << "Maidah Javed" << endl;
+cout << "23-st-029" << endl;
+cout << "Software Engineering Technology" << endl;
